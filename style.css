@@ -1,0 +1,17 @@
+.game-form {
+  display: flex;
+}
+
+#results {
+  font-weight: 900;
+}
+
+#h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#h3 {
+  font-size: 1em;
+  font-weight: bold;
+}
